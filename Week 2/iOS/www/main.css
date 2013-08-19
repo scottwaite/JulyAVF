@@ -4,9 +4,10 @@
     color: #fff;
     text-shadow: #000 0 1px 0;
     font: bold 16px/20px Helvetica, Sans-serif;
-background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b4e391), color-stop(50%,#48c119), color-stop(100%,#b4e391)); 
+
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#7bd83c), color-stop(50%,#63b243), color-stop(51%,#599b12), color-stop(100%,#408407)); 
 .ui-panel-content-wrap {
-    background-image: url('images/black-Linen.png');
+    background-image: url('images/retro_intro.png');
 }
 
 .connectwithus:before{
