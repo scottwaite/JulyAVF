@@ -14,6 +14,17 @@
 		1F766FE113BBADB100FB74C0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F766FDC13BBADB100FB74C0 /* Localizable.strings */; };
 		1F766FE213BBADB100FB74C0 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1F766FDF13BBADB100FB74C0 /* Localizable.strings */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
+		2D51505F17C101CC00A1211E /* FB-profile-pic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51505E17C101CC00A1211E /* FB-profile-pic.png */; };
+		2D51506117C1021600A1211E /* retinaFB-profile-pic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506017C1021600A1211E /* retinaFB-profile-pic.png */; };
+		2D51506317C1023600A1211E /* Default.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506217C1023600A1211E /* Default.png */; };
+		2D51506517C1023F00A1211E /* Default@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506417C1023F00A1211E /* Default@2x.png */; };
+		2D51506717C1024400A1211E /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506617C1024400A1211E /* Default-568h@2x.png */; };
+		2D51506917C1025700A1211E /* Default-Portrait@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506817C1025700A1211E /* Default-Portrait@2x~ipad.png */; };
+		2D51506B17C1028C00A1211E /* appiconretinaFB-profile-pic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506A17C1028C00A1211E /* appiconretinaFB-profile-pic.png */; };
+		2D51506D17C102B400A1211E /* appiconFB-profile-pic.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506C17C102B400A1211E /* appiconFB-profile-pic.png */; };
+		2D51506F17C102BD00A1211E /* Default-Portrait~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51506E17C102BD00A1211E /* Default-Portrait~ipad.png */; };
+		2D51507117C102DE00A1211E /* Default-Landscape~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51507017C102DE00A1211E /* Default-Landscape~ipad.png */; };
+		2D51507317C102E400A1211E /* Default-Landscape@2x~ipad.png in Resources */ = {isa = PBXBuildFile; fileRef = 2D51507217C102E400A1211E /* Default-Landscape@2x~ipad.png */; };
 		301BF552109A68D80062928A /* libCordova.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF535109A57CC0062928A /* libCordova.a */; };
 		301BF5B5109A6A2B0062928A /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5B4109A6A2B0062928A /* AddressBook.framework */; };
 		301BF5B7109A6A2B0062928A /* AddressBookUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 301BF5B6109A6A2B0062928A /* AddressBookUI.framework */; };
@@ -73,6 +84,17 @@
 		1F766FE013BBADB100FB74C0 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = Localizable.strings; sourceTree = "<group>"; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		2D51505E17C101CC00A1211E /* FB-profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "FB-profile-pic.png"; sourceTree = "<group>"; };
+		2D51506017C1021600A1211E /* retinaFB-profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "retinaFB-profile-pic.png"; sourceTree = "<group>"; };
+		2D51506217C1023600A1211E /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
+		2D51506417C1023F00A1211E /* Default@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default@2x.png"; sourceTree = "<group>"; };
+		2D51506617C1024400A1211E /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
+		2D51506817C1025700A1211E /* Default-Portrait@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait@2x~ipad.png"; sourceTree = "<group>"; };
+		2D51506A17C1028C00A1211E /* appiconretinaFB-profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appiconretinaFB-profile-pic.png"; sourceTree = "<group>"; };
+		2D51506C17C102B400A1211E /* appiconFB-profile-pic.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "appiconFB-profile-pic.png"; sourceTree = "<group>"; };
+		2D51506E17C102BD00A1211E /* Default-Portrait~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Portrait~ipad.png"; sourceTree = "<group>"; };
+		2D51507017C102DE00A1211E /* Default-Landscape~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape~ipad.png"; sourceTree = "<group>"; };
+		2D51507217C102E400A1211E /* Default-Landscape@2x~ipad.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-Landscape@2x~ipad.png"; sourceTree = "<group>"; };
 		301BF52D109A57CC0062928A /* CordovaLib.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = CordovaLib.xcodeproj; path = CordovaLib/CordovaLib.xcodeproj; sourceTree = "<group>"; };
 		301BF56E109A69640062928A /* www */ = {isa = PBXFileReference; lastKnownFileType = folder; path = www; sourceTree = SOURCE_ROOT; };
 		301BF5B4109A6A2B0062928A /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
@@ -176,6 +198,17 @@
 		29B97314FDCFA39411CA2CEA /* CustomTemplate */ = {
 			isa = PBXGroup;
 			children = (
+				2D51507217C102E400A1211E /* Default-Landscape@2x~ipad.png */,
+				2D51507017C102DE00A1211E /* Default-Landscape~ipad.png */,
+				2D51506E17C102BD00A1211E /* Default-Portrait~ipad.png */,
+				2D51506C17C102B400A1211E /* appiconFB-profile-pic.png */,
+				2D51506A17C1028C00A1211E /* appiconretinaFB-profile-pic.png */,
+				2D51506817C1025700A1211E /* Default-Portrait@2x~ipad.png */,
+				2D51506617C1024400A1211E /* Default-568h@2x.png */,
+				2D51506417C1023F00A1211E /* Default@2x.png */,
+				2D51506217C1023600A1211E /* Default.png */,
+				2D51506017C1021600A1211E /* retinaFB-profile-pic.png */,
+				2D51505E17C101CC00A1211E /* FB-profile-pic.png */,
 				F840E1F0165FE0F500CFE078 /* config.xml */,
 				301BF56E109A69640062928A /* www */,
 				301BF52D109A57CC0062928A /* CordovaLib.xcodeproj */,
@@ -386,6 +419,17 @@
 				3088BBC2154F3926009F9C59 /* Default~iphone.png in Resources */,
 				D4A0D8761607E02300AEF8BB /* Default-568h@2x~iphone.png in Resources */,
 				30FC414916E50CA1004E6F35 /* icon-72@2x.png in Resources */,
+				2D51505F17C101CC00A1211E /* FB-profile-pic.png in Resources */,
+				2D51506117C1021600A1211E /* retinaFB-profile-pic.png in Resources */,
+				2D51506317C1023600A1211E /* Default.png in Resources */,
+				2D51506517C1023F00A1211E /* Default@2x.png in Resources */,
+				2D51506717C1024400A1211E /* Default-568h@2x.png in Resources */,
+				2D51506917C1025700A1211E /* Default-Portrait@2x~ipad.png in Resources */,
+				2D51506B17C1028C00A1211E /* appiconretinaFB-profile-pic.png in Resources */,
+				2D51506D17C102B400A1211E /* appiconFB-profile-pic.png in Resources */,
+				2D51506F17C102BD00A1211E /* Default-Portrait~ipad.png in Resources */,
+				2D51507117C102DE00A1211E /* Default-Landscape~ipad.png in Resources */,
+				2D51507317C102E400A1211E /* Default-Landscape@2x~ipad.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -16,10 +16,10 @@
 		<dict>
 			<key>CFBundleIconFiles</key>
 			<array>
-				<string>icon.png</string>
-				<string>icon@2x.png</string>
-				<string>icon-72.png</string>
-				<string>icon-72@2x.png</string>
+				<string>FB-profile-pic.png</string>
+				<string>retinaFB-profile-pic.png</string>
+				<string>appiconFB-profile-pic.png</string>
+				<string>appiconretinaFB-profile-pic.png</string>
 			</array>
 			<key>UIPrerenderedIcon</key>
 			<false/>
